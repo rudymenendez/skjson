@@ -7,5 +7,51 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "guardians": [
+    {
+      "id": 1,
+      "guardian_type": "Mother",
+      "name": "Monica Smith",
+      "username": "monsmith",
+      "contact_home": "555-618-1234",
+      "contact_cell": "555-432-4000",
+      "contact_work": "",
+      "contact_other": "",
+      "contact_email": "monsmith@aol.com"
+    },
+    {
+      "id": 2,
+      "guardian_type": "Father",
+      "name": "Jerry Smith",
+      "username": "jersmith",
+      "contact_home": "555-618-6584",
+      "contact_cell": "555-432-4001",
+      "contact_work": "",
+      "contact_other": "",
+      "contact_email": "jersmith@aol.com"
+    },
+    {
+      "id": 3,
+      "guardian_type": "Grandparent",
+      "name": "Sally Walt",
+      "username": "salwalt",
+      "contact_home": "555-774-5454",
+      "contact_cell": "",
+      "contact_work": "555-443-5541",
+      "contact_other": "",
+      "contact_email": "salwalt@gmail.com"
+    },
+    {
+      "id": 4,
+      "guardian_type": "Relative",
+      "name": "Pete Jones",
+      "username": "",
+      "contact_home": "555-773-2231",
+      "contact_cell": "555-989-0032",
+      "contact_work": "555-651-0987",
+      "contact_other": "555-651-0988",
+      "contact_email": "salwalt@gmail.com"
+    },
+  ]
 }
